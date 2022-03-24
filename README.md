@@ -1,5 +1,3 @@
-# 120-days-of-python
-
 # Day 001:
 Coding Room Exercises:
 Printing
