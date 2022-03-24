@@ -56,7 +56,6 @@ print(len(input("What is your name?\n")))
 a = input("a: ")
 b = input("b: ")
 
-
 #-----------------------------------
 #Write your code below this line 👇
 
